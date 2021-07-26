@@ -33,7 +33,7 @@
   "require": {
     "magium/configuration-manager": "^1.2.4",
     "league/oauth2-client": "^2.6",
-    "microsoft/microsoft-graph": "^1.35",
+    "microsoft/microsoft-graph": "^1.29",
     "zendframework/zend-psr7bridge": "^1.2"
   }
 }
