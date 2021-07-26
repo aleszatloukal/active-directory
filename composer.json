@@ -11,7 +11,7 @@
     {
       "name": "Ales Zatloukal",
       "email": "al.zatloukal@gmail.com"
-    },
+    }
   ],
   "autoload": {
     "psr-4": {
