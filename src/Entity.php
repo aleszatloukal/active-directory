@@ -39,6 +39,11 @@ class Entity
     {
         return $this->preferred_username;
     }
+    
+    public function getEmail()
+    {
+        return $this->email;
+    }
 
     public function getData()
     {
